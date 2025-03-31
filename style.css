@@ -1,3 +1,5 @@
 a[href^="https"]{
     color: red;
 }
+
+.list+p{font-size: 24px;}
